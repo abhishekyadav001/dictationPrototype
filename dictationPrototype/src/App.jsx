@@ -1,10 +1,10 @@
 import React from "react";
-import DictationFeature from "./DictationFeature";
+import TranscriptionComparisonTool from "./TranscriptionComparisonTool";
 
 const App = () => {
   return (
     <div>
-      <DictationFeature />
+      <TranscriptionComparisonTool />
     </div>
   );
 };
